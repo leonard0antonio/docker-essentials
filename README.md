@@ -7,7 +7,7 @@
 ![GitHub open issues](https://img.shields.io/github/issues/<seu-usuario>/<nome-do-repo>?style=for-the-badge)
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr/<seu-usuario>/<nome-do-repo>?style=for-the-badge)
 
-<img src="watermarked_img_10686165629196178210.jpg" alt="Exemplo da interface ou logo do projeto">
+<img src="demo.jpg" alt="Exemplo da interface ou logo do projeto">
 
 > Um guia prático e repositório central com os conceitos essenciais, comandos fundamentais e exemplos práticos para dominar o uso do Docker no dia a dia.
 
